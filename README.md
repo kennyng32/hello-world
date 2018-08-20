@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello all!
+
+I am Kenny and I am a total beginner at this! 
